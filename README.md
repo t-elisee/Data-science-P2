@@ -1,4 +1,4 @@
-# Data-science
+# Data-scientist-training
 
 Analysez des données de systèmes éducatifs
 
